@@ -9,3 +9,7 @@ node_modules
 
 # Ignore arquivos relacionados às chaves de API
 .env
+
+# Binaries for programs and plugins GO language
+*.exe
+*.exe~
